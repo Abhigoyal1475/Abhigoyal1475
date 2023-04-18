@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep Learning and NLP projects
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on Deep Learning, NLP, and Computer Vision projects
+- 🌱 I’m currently evolving personally and Professionally
 - 👯 I’m looking to collaborate on anyhting and everything involving Data science
 - 🤔 I’m looking for help with understanding Life
 - 💬 Ask me about anything
-- 📫 How to reach me: through my email
+- 📫 How to reach me: Abhishek101goyal@gmail.com
 - 😄 Pronouns: He/Him
 
 <!--
